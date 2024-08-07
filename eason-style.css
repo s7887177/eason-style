@@ -16,6 +16,7 @@
 .note::before {  
     color: #007acc;
     content: 'Note ';
+    
 }
 .tip {
     border-color: #3fb950;
